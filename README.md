@@ -1,2 +1,2 @@
 # sre-class
-Repository for SRA course
+Repository for SRE course
